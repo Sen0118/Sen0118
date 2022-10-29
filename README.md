@@ -5,6 +5,8 @@
 </h1>
 
 <h2 align="center">A passionate full-stack and mobile app developer living in Australia 🇦🇺 </h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sen0118&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
  <div align="center">
   <a href="https://github.com/Sen0118">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
