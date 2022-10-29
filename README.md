@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <br/>
 
  <div align="center">
-  <a href="https://github.com/anoguez">
-    <img height="150em" src="https://github-readme-stats-anoguez.vercel.app/api?username=Sen0118&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,contribs&border_color=61dafb&hide_border=true"/>
-    <img height="150em" src="https://github-readme-stats-anoguez.vercel.app//api/top-langs/?username=Sen0118&layout=compact&langs_count=7&theme=react&border_color=61dafb&hide_border=true"/>
+  <a href="https://github.com/Sen0118">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sen0118&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
