@@ -23,8 +23,7 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="VueJs" height="30" width="40" src="ttps://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 </div>
   
 ##
