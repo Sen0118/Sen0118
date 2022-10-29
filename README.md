@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Sen.;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<h2 align="center">A passionate full-stack and mobile app developer living in Australia 🇦🇺 </h2>
 
 <br/>
 
