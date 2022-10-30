@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate <span style="color:blue">full-stack and mobile app developer</span> living in Australia 🇦🇺 </h3>
+<h3 align="center">A passionate full-stack and mobile app developer living in Australia 🇦🇺 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sen0118&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
  <div align="center">
